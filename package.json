@@ -2,6 +2,9 @@
   "name": "@sourcemeta/typescript-config",
   "version": "1.0.0",
   "description": "Base TypeScript compiler and linter configurations",
+  "scripts": {
+    "publish": "npm publish --access public"
+  },
   "author": "Juan Cruz Viotti <jv@jviotti.com>",
   "license": "Apache-2.0",
   "dependencies": {
