@@ -1,5 +1,5 @@
 {
-  "extends": "../base.json",
+  "extends": "./base.json",
   "compilerOptions": {
     "lib": [ "es2017", "dom" ]
   }

@@ -24,11 +24,5 @@
     "sourceMap": false,
     "declaration": false,
     "declarationMap": false
-  },
-  "include": [
-    "./lib/**/*.ts",
-    "./utils/**/*.ts",
-    "./test/**/*.ts",
-    "./web/**/*.ts"
-  ]
+  }
 }

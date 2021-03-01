@@ -1,0 +1,11 @@
+{
+  "name": "@sourcemeta/tsbase",
+  "version": "1.0.0",
+  "description": "Base TypeScript compiler and linter configurations",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Juan Cruz Viotti <jv@jviotti.com>",
+  "license": "Apache-2.0"
+}
