@@ -1,5 +1,5 @@
 {
-  "name": "@sourcemeta/tsbase",
+  "name": "@sourcemeta/typescript-config",
   "version": "1.0.0",
   "description": "Base TypeScript compiler and linter configurations",
   "scripts": {
