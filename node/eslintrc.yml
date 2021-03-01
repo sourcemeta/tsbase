@@ -1,0 +1,5 @@
+extends: '../base/eslintrc.yml'
+env:
+  browser: false
+  commonjs: true
+  node: true
