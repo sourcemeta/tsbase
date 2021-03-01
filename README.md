@@ -22,7 +22,7 @@ Create a `tsconfig.json` file in your project with the following contents:
 
 ```json
 {
-  "extends": "./node_modules/@sourcemeta/typescript-config/node/tsconfig.json",
+  "extends": "@sourcemeta/typescript-config/node/tsconfig.json",
   "include": [
     "./lib/**/*.ts"
   ]
@@ -35,7 +35,7 @@ Create a `tsconfig.json` file in your project with the following contents:
 
 ```json
 {
-  "extends": "./node_modules/@sourcemeta/typescript-config/web/tsconfig.json",
+  "extends": "@sourcemeta/typescript-config/web/tsconfig.json",
   "include": [
     "./lib/**/*.ts"
   ]
