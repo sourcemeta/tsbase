@@ -8,7 +8,7 @@ Installation
 ------------
 
 ```
-npm install --save-dev @sourcemeta/typescript-config
+npm install --save-dev github:sourcemeta/typescript-config
 ```
 
 TSConfig
