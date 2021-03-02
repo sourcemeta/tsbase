@@ -23,6 +23,9 @@ Create a `tsconfig.json` file in your project with the following contents:
 ```json
 {
   "extends": "@sourcemeta/typescript-config/node/tsconfig.json",
+  "compilerOptions": {
+    "outDir": "./dist"
+  },
   "include": [
     "./lib/**/*.ts"
   ]
@@ -36,6 +39,9 @@ Create a `tsconfig.json` file in your project with the following contents:
 ```json
 {
   "extends": "@sourcemeta/typescript-config/web/tsconfig.json",
+  "compilerOptions": {
+    "outDir": "./dist"
+  },
   "include": [
     "./lib/**/*.ts"
   ]

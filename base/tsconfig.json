@@ -1,6 +1,5 @@
 {
   "compilerOptions": {
-    "outDir": "./dist",
     "removeComments": true,
     "strict": true,
     "strictBindCallApply": true,
