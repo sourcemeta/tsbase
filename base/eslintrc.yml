@@ -445,6 +445,8 @@ rules:
     - error
     - before: true
       after: false
+  indent:
+    - off
   no-confusing-arrow:
     - error
   no-var:
