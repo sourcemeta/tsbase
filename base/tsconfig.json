@@ -15,6 +15,7 @@
     "noFallthroughCasesInSwitch": true,
     "resolveJsonModule": true,
     "forceConsistentCasingInFileNames": true,
+    "esModuleInterop": true,
     "alwaysStrict": true,
     "downlevelIteration": true,
     "moduleResolution": "node",
