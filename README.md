@@ -51,7 +51,7 @@ Create a `tsconfig.json` file in your project with the following contents:
 ESLint
 ------
 
-You can run `elint` by invoking `./node_modules/.bin/eslint`.
+You can run `eslint` by invoking `./node_modules/.bin/eslint`.
 
 ### Node.js
 
