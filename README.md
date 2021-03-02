@@ -69,6 +69,19 @@ Create an `.eslintrc.yml` file in your project with the following contents:
 extends: './node_modules/@sourcemeta/typescript-config/web/eslintrc.yml'
 ```
 
+GNU Make integration
+--------------------
+
+This module provides an `eslint` and `tsc` GNU Make targets that you can import
+with the following directives:
+
+```make
+include node_modules/@sourcemeta/typescript-config/targets.mk
+
+# Declare the directories containing TypeScript files
+TYPESCRIPT_CONFIG_DIRECTORIES = src tests
+```
+
 License
 -------
 
